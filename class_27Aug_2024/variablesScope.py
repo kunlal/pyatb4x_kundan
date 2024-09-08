@@ -16,6 +16,5 @@ def myFunc(a, b):
 def myFunc2():
     print("myFunc2: ", my_var)      #outer
 
-
 myFunc(30, 90)
 myFunc2()
